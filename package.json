@@ -1,0 +1,13 @@
+{
+  "name": "ip2c",
+  "version": "1.0.0",
+  "description": "Node.js module for resolve IPs to country codes/names using ip2c.org service.",
+  "main": "ip2c.js",
+  "keywords": ["ip2c", "ip2country"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/corysus/ip2c.git"
+  },
+  "author": "Almir Dzidic <corysus@gmail.com>",
+  "license": "MIT"
+}
