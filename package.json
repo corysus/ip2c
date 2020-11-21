@@ -1,6 +1,6 @@
 {
   "name": "ip2c",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node.js module for resolve IPs to country codes/names using ip2c.org service.",
   "main": "ip2c.js",
   "keywords": ["ip2c", "ip2country"],

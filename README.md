@@ -2,8 +2,12 @@
 
 Node.js module for resolve IPs to country codes/names using [ip2c.org](https://ip2c.org) service.
 
+## Install
+    npm i ip2c
+
 ## Usage
-    const ip2c = require('./ip2c')
+````javascript
+    const ip2c = require('ip2c')
     ip2c('ip_address').then(data => {
         console.log(data)
         /* return obj:
@@ -14,3 +18,4 @@ Node.js module for resolve IPs to country codes/names using [ip2c.org](https://i
             }
         */
     }).catch(err => console.log('error', err))
+````
